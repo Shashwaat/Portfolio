@@ -126,7 +126,7 @@ h1,h2,h3,h4,h5,h6,p{
 
 .blue{
   /* background-color: #1c5ce6; */
-  background-color: #9b2704;
+  background-color: #1a01a7;
   color: #ffffff;
 }
 .btn{
@@ -182,7 +182,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 
 .service-box{
-  box-shadow: 0px 1px 7px rgba(226, 6, 6, 0.74);  
+  box-shadow: 0px 1px 7px rgba(0, 0, 0, 0.74);  
   margin-left: 20px;
   padding: 15px;
   padding-left: 30px;
